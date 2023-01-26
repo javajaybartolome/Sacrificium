@@ -1,4 +1,5 @@
-#Sacrificium
+Sacrificium
+
 Welcome to Sacrificium, a heart-pumping horror game that takes you on a journey of discovery and terror.
 
 You will play as Sarah, a young woman haunted by her past. Her mother sold her daughter's spirit to a demon for power and now Sarah must confront the demons of her past to uncover the truth.
